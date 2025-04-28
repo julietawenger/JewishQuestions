@@ -1,0 +1,11 @@
+streamlit
+python-dotenv
+google-generativeai
+requests
+pdfplumber
+python-docx
+newspaper3k
+transformers
+torch
+serpapi
+
